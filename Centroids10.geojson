@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection",
+    "name": "Centroids",
+    "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+    "features": [
+{ "type": "Feature", "properties": { "Id": 3, "Zone_Name": "ALIPUR", "xCentroid": 77.092, "yCentroid": 28.794 }},
+{ "type": "Feature", "properties": { "Id": 14, "Zone_Name": "ADARSH", "xCentroid": 77.168, "yCentroid": 28.716 }},
+{ "type": "Feature", "properties": { "Id": 54, "Zone_Name": "PITAMPURA NORTH", "xCentroid": 77.139, "yCentroid": 28.717 }},
+{ "type": "Feature", "properties": { "Id": 93, "Zone_Name": "BALJIT NAGAR", "xCentroid": 77.155, "yCentroid": 28.656 }},
+{ "type": "Feature", "properties": { "Id": 103, "Zone_Name": "PUNJABI BAGH", "xCentroid": 77.123, "yCentroid": 28.669 }},
+{ "type": "Feature", "properties": { "Id": 129, "Zone_Name": "DABRI", "xCentroid": 77.088, "yCentroid": 28.607 }},
+{ "type": "Feature", "properties": { "Id": 167, "Zone_Name": "R.K. PURAM", "xCentroid": 77.175, "yCentroid": 28.568 }},
+{ "type": "Feature", "properties": { "Id": 302, "Zone_Name": "DHIR PUR ( AZAD PUR)", "xCentroid": 77.182, "yCentroid": 28.716 }},
+{ "type": "Feature", "properties": { "Id": 270, "Zone_Name": "TUKHMIR PUR", "xCentroid": 77.253, "yCentroid": 28.716 }},
+{ "type": "Feature", "properties": { "Id": 209, "Zone_Name": "MAYUR VIHAR PHASE-I", "xCentroid": 77.283, "yCentroid": 28.602 }}
+    ]
+}
+
+
